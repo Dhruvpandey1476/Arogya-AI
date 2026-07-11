@@ -23,18 +23,11 @@ backend/venv/
 *.key
 *.pem
 
-# ---- Models (large binaries — use Git LFS or share separately) ----
-backend/models/*.pkl
-backend/models/skin_classifier/*.pt
-*.pt
-*.pth
-*.onnx
+# ---- Models: COMMITTED so the app works after deploy (all < 100MB) ----
+# (kept in repo intentionally: disease_model.pkl, severity_model.pkl, efficientnet_skin.pt)
 
-# ---- Vector store / databases ----
-backend/vectorstore/
-*.sqlite3
-*.db
-chroma_db/
+# ---- Vector store: COMMITTED so RAG works out of the box ----
+*.sqlite3.tmp
 
 # ---- Data (large; do NOT commit the ISIC image dataset) ----
 backend/data/raw/*
