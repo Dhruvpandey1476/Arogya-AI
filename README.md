@@ -204,4 +204,4 @@ Arogya AI is a health awareness and triage tool, not a medical diagnostic device
 
 ---
 
-*Built with ❤️ for hackathon — Dhruv Pandey*
+*Built with ❤️ by— Dhruv Pandey*
