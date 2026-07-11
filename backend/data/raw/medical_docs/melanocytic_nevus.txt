@@ -1,0 +1,9 @@
+Melanocytic Nevus (NV) — Common Mole
+
+A melanocytic nevus, commonly called a mole, is a benign (non-cancerous) growth of melanocytes, the skin's pigment cells. Nevi are extremely common; most adults have between 10 and 40 of them. They are the single most frequent lesion in dermatology datasets and are almost always harmless.
+
+Appearance: moles are usually small (under 6 mm), round or oval, with a smooth, well-defined border and an even color that is uniform brown, tan, black, pink, or skin-colored. They may be flat or raised. Congenital nevi are present at birth; acquired nevi develop through childhood and early adulthood, often in response to sun exposure.
+
+Types: junctional nevi are flat and dark; compound and intradermal nevi are more raised and lighter. Atypical (dysplastic) nevi are larger, have irregular borders and mixed colors, and carry a slightly increased risk of transformation into melanoma, so they should be monitored.
+
+When to seek care: although nevi are benign, any mole that changes in size, shape, or color, becomes asymmetric, develops an irregular border, itches, bleeds, or looks different from a person's other moles should be examined by a clinician to rule out melanoma (see the ABCDE rule). Most moles never require treatment; removal is done for cosmetic reasons or if malignancy is suspected, by simple excision followed by histological examination.

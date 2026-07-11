@@ -1,0 +1,11 @@
+Melanoma (MEL)
+
+Melanoma is the most dangerous form of skin cancer. It develops from melanocytes, the pigment-producing cells of the skin, and can also arise in the eyes and, rarely, in internal organs. Melanoma is far less common than basal cell and squamous cell carcinoma but causes the majority of skin cancer deaths because it can spread (metastasize) rapidly to lymph nodes and distant organs if not detected early.
+
+Risk factors: intense intermittent ultraviolet (UV) exposure and sunburn, especially in childhood; use of tanning beds; fair skin, light eyes, and red or blond hair; a large number of moles or atypical (dysplastic) moles; a personal or family history of melanoma; and immune suppression.
+
+Warning signs follow the ABCDE rule: Asymmetry (one half unlike the other), Border irregularity, Color variation within the lesion (shades of brown, black, red, white, or blue), Diameter greater than 6 mm, and Evolving — any change in size, shape, color, or symptoms such as itching or bleeding. A new pigmented lesion in an adult, or a mole that looks different from the person's others (the "ugly duckling" sign), warrants evaluation.
+
+Diagnosis is by dermoscopy and confirmed with a skin biopsy. Staging uses tumor thickness (Breslow depth), ulceration, and spread to lymph nodes. Treatment: early-stage melanoma is treated with surgical excision and is usually curable. Advanced disease is treated with sentinel lymph node biopsy, immunotherapy (checkpoint inhibitors), targeted therapy for BRAF-mutated tumors, and radiation.
+
+Prevention: avoid sunburn and tanning beds, use broad-spectrum sunscreen (SPF 30+), wear protective clothing, and perform regular skin self-examination. Early detection dramatically improves survival.

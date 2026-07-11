@@ -1,0 +1,13 @@
+Actinic Keratosis and Intraepithelial Carcinoma (AKIEC)
+
+Actinic keratosis (also called solar keratosis) is a rough, scaly patch on the skin caused by years of ultraviolet (UV) damage from the sun or tanning beds. It is considered a precancerous lesion because a proportion of untreated actinic keratoses can progress to squamous cell carcinoma. Intraepidermal carcinoma (Bowen's disease) is squamous cell carcinoma in situ — cancer confined to the top layer of the skin. In the ISIC dataset these related pre-invasive and early lesions are grouped together as AKIEC.
+
+Risk factors: chronic sun exposure, fair skin, older age, male sex, living in sunny climates, and immune suppression. Lesions typically appear on sun-exposed areas: face, scalp (especially in balding men), ears, backs of the hands, and forearms.
+
+Appearance: actinic keratoses are dry, scaly, or crusty patches, often easier to feel (like sandpaper) than to see, ranging from skin-colored to reddish-brown, usually 2 to 6 mm but sometimes larger. Bowen's disease appears as a persistent, well-defined red, scaly plaque.
+
+Warning signs of progression to invasive cancer: thickening, tenderness, bleeding, rapid growth, or ulceration. These changes should prompt medical evaluation and biopsy.
+
+Treatment: cryotherapy (freezing) for individual lesions; topical therapies such as 5-fluorouracil, imiquimod, or diclofenac; photodynamic therapy; and curettage. Because AKIEC lesions signal significant sun damage, ongoing skin surveillance is recommended.
+
+Prevention: rigorous sun protection and early treatment of precancerous lesions to prevent progression to squamous cell carcinoma.

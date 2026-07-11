@@ -1,0 +1,13 @@
+Vascular Lesions (VASC)
+
+Vascular lesions are benign (non-cancerous) skin markings made up of blood vessels. In the ISIC dataset the VASC category groups together cherry angiomas, angiokeratomas, pyogenic granulomas, and hemorrhage. They are generally harmless, though some bleed easily.
+
+Cherry angioma (Campbell de Morgan spot): the most common vascular lesion, a small, bright red to purple, dome-shaped papule caused by a benign proliferation of capillaries. They increase in number with age and are found mostly on the trunk. They are harmless and usually need no treatment.
+
+Angiokeratoma: a dark red to black, warty (hyperkeratotic) papule formed by dilated blood vessels near the skin surface. Because of the dark color it can be mistaken for melanoma, so it is sometimes biopsied.
+
+Pyogenic granuloma: a rapidly growing, red, fleshy nodule that bleeds easily, often appearing at a site of minor injury or during pregnancy. It is benign but frequently removed because of recurrent bleeding.
+
+Appearance overall: vascular lesions are typically red, purple, or blue and may blanch (fade) with pressure, which helps distinguish them from pigmented lesions. Dermoscopy shows red or purple lacunae (lagoons).
+
+Management: most vascular lesions are benign and require no treatment. Removal — by laser, electrocautery, cryotherapy, or excision — is done for cosmetic reasons, recurrent bleeding, or diagnostic uncertainty. A lesion that is dark, changing, or hard to distinguish from melanoma should be examined by a clinician.

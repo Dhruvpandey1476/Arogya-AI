@@ -1,0 +1,13 @@
+Benign Keratosis-like Lesions (BKL)
+
+Benign keratosis-like lesions are a group of non-cancerous skin growths that includes seborrheic keratoses, solar lentigines (sun spots / age spots), and lichen-planus-like keratoses. In the ISIC dataset these are grouped together as BKL. They are all benign and do not spread, but they are important because they can visually mimic melanoma and other skin cancers, which is why they are frequently biopsied.
+
+Seborrheic keratosis: one of the most common benign skin growths in older adults. It appears as a waxy, "stuck-on," slightly raised patch that can be tan, brown, or black, with a rough or crumbly surface. It is unrelated to sun exposure alone and tends to run in families. Multiple lesions are typical.
+
+Solar lentigo (sun spot): a flat, well-defined tan-to-brown macule caused by chronic UV exposure, common on the face, hands, and shoulders of middle-aged and older people.
+
+Lichen-planus-like keratosis: a single lesion, often a regressing solar lentigo or seborrheic keratosis, that can appear inflamed, red, or gray and is often biopsied because it resembles skin cancer.
+
+Appearance overall: BKL lesions are usually well-circumscribed and stable, but color variation and irregular texture can make them hard to distinguish from melanoma by eye. Dermoscopy helps identify characteristic benign features.
+
+Management: no treatment is needed for confirmed benign lesions. Removal (cryotherapy, curettage, or shave excision) is done for cosmetic reasons, irritation, or when the diagnosis is uncertain and cancer must be excluded. Any lesion that changes rapidly, bleeds, or looks atypical should still be evaluated.

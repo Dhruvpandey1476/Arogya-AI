@@ -1,0 +1,61 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+env/
+.venv/
+backend/venv/
+
+# ---- Env / secrets ----
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# ---- Models (large binaries — use Git LFS or share separately) ----
+backend/models/*.pkl
+backend/models/skin_classifier/*.pt
+*.pt
+*.pth
+*.onnx
+
+# ---- Vector store / databases ----
+backend/vectorstore/
+*.sqlite3
+*.db
+chroma_db/
+
+# ---- Data (large; do NOT commit the ISIC image dataset) ----
+backend/data/raw/*
+backend/data/processed/
+# ...but DO keep the small medical knowledge text files
+!backend/data/raw/medical_docs/
+backend/data/raw/medical_docs/*
+!backend/data/raw/medical_docs/*.txt
+
+# ---- Node / frontend ----
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# ---- Notebooks ----
+.ipynb_checkpoints/
+
+# ---- Misc / OS / editors ----
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/

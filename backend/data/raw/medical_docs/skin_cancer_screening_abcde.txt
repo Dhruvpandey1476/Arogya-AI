@@ -1,0 +1,20 @@
+Skin Cancer Screening and the ABCDE Rule
+
+Skin cancer is the most common group of cancers worldwide. The three main types are basal cell carcinoma (most common, rarely spreads), squamous cell carcinoma (can spread if neglected), and melanoma (least common but most deadly). Early detection through self-examination and clinical screening dramatically improves outcomes; most skin cancers are curable when caught early.
+
+The ABCDE rule for evaluating moles and pigmented lesions:
+A — Asymmetry: one half of the lesion does not match the other half.
+B — Border: edges are irregular, ragged, notched, or blurred.
+C — Color: color is uneven, with shades of brown, black, tan, red, white, or blue within one lesion.
+D — Diameter: larger than 6 mm (about the size of a pencil eraser), though melanomas can be smaller.
+E — Evolving: the lesion changes in size, shape, color, or elevation, or develops new symptoms such as itching, bleeding, or crusting.
+
+The "ugly duckling" sign is also useful: a lesion that looks noticeably different from a person's other moles deserves attention.
+
+How to perform a skin self-examination: check the entire body monthly in a well-lit room using a full-length and a hand mirror, including the scalp, between fingers and toes, soles, palms, and genital area. Note new lesions and changes in existing ones; photographs help track change over time.
+
+When to see a doctor: any new, changing, non-healing, bleeding, or unusual lesion, or any mole meeting ABCDE criteria, should be examined by a dermatologist. Diagnosis is confirmed by dermoscopy and biopsy.
+
+Important limitation: automated image analysis and AI tools are decision-support aids only. They cannot replace examination and biopsy by a qualified clinician, and a negative or benign prediction does not rule out cancer. Any concerning lesion should be assessed in person.
+
+Prevention: avoid excessive sun exposure and sunburn, never use tanning beds, apply broad-spectrum sunscreen (SPF 30 or higher), wear protective clothing and hats, seek shade during peak UV hours, and have regular skin checks if you are at higher risk.
