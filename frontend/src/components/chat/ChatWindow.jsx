@@ -1,6 +1,10 @@
 import { useEffect, useRef, useState } from 'react'
 import MessageBubble from './MessageBubble'
 import ChatInput from './ChatInput'
+import { API_BASE_URL } from '../../services/api'
+
+// Convert http(s):// base to ws(s):// for the chat WebSocket
+const WS_BASE_URL = API_BASE_URL.replace(/^http/, 'ws')
 
 const SUGGESTED = [
   'What foods should I avoid?',
@@ -22,7 +26,7 @@ export default function ChatWindow({ sessionId }) {
   useEffect(() => {
     if (!sessionId) return
 
-    const url = `ws://localhost:8000/ws/chat/${sessionId}`
+    const url = `${WS_BASE_URL}/ws/chat/${sessionId}`
     const ws = new WebSocket(url)
     wsRef.current = ws
 

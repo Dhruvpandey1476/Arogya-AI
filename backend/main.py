@@ -70,9 +70,12 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# Origins: localhost for dev + any extra from CORS_ORIGINS env (comma-separated), e.g. your deployed frontend URL.
+import os
+_extra_origins = [o.strip() for o in os.getenv("CORS_ORIGINS", "").split(",") if o.strip()]
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000"],
+    allow_origins=["http://localhost:5173", "http://localhost:3000"] + _extra_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
