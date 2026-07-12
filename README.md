@@ -183,21 +183,6 @@ arogya-ai/
 └── scripts/                       # verify_setup.py, ingest_medical_docs.py
 ```
 
----
-
-## Demo Script (For Judges)
-
-1. **Open Assessment page** → Select 5-6 symptoms from the selector
-2. **Click Skin Image tab** → Upload a sample skin image
-3. **Click Run Assessment** → Watch ML models + RAG + LLM run
-4. **Show result card** → Point out confidence bars, severity badge, RAG sources
-5. **Click "Discuss with Arogya"** → Chat with contextual follow-ups
-6. **Judges ask questions** → Show real-time streaming response
-
-**Key pitch line:** *"Unlike LLM chatbots that hallucinate medical facts, Arogya AI uses trained models to predict and retrieved WHO/MedlinePlus documents to explain. The LLM only speaks from evidence."*
-
----
-
 ## Disclaimer
 
 Arogya AI is a health awareness and triage tool, not a medical diagnostic device. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.
