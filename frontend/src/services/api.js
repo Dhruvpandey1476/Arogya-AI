@@ -1,3 +1,4 @@
+// API client layer (axios). Base URL comes from VITE_API_URL in production.
 import axios from 'axios'
 
 // Uses VITE_API_URL when set (production), else localhost for local dev.

@@ -1,3 +1,4 @@
+// Symptom catalogue grouped by body system; keys match the backend's 132-symptom model features.
 export const SYMPTOM_CATEGORIES = {
   "General": [
     "fatigue", "weight_loss", "weight_gain", "lethargy", "malaise",

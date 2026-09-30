@@ -1,3 +1,4 @@
+// Global Zustand store holding assessment inputs and results shared across pages.
 import { create } from 'zustand'
 
 const useAssessmentStore = create((set) => ({
