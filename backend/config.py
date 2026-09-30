@@ -1,3 +1,5 @@
+# Central configuration: loads backend/.env (without overriding real env vars)
+# and exposes model, vector-store and LLM settings used across the backend.
 import os
 from pathlib import Path
 
