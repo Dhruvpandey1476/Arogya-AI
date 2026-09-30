@@ -2,6 +2,7 @@
 Pre-hackathon verification script.
 Run this to confirm everything is ready before you walk in.
 """
+# Checks: Python deps, trained model files, ChromaDB store and LLM connectivity.
 
 import sys
 from pathlib import Path
