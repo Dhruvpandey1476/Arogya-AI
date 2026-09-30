@@ -1,3 +1,5 @@
+# /assess endpoints: runs ML disease + severity prediction, optional skin-image CV,
+# RAG retrieval and LLM explanation, then stores the session for follow-up chat.
 from fastapi import APIRouter, Request, HTTPException
 import uuid
 import base64

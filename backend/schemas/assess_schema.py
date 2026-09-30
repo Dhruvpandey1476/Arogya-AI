@@ -1,3 +1,4 @@
+# Pydantic request/response models for the /assess API.
 from pydantic import BaseModel, Field
 from typing import List, Optional
 
