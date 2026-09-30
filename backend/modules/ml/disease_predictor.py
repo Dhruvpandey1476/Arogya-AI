@@ -1,3 +1,5 @@
+# Symptom -> disease predictor. Encodes the 132-symptom Kaggle feature vector
+# and returns the top-k likely diseases with confidence scores.
 import pickle
 import numpy as np
 import pandas as pd

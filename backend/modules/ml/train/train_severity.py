@@ -3,6 +3,7 @@ Training script for severity classification model.
 Generates synthetic training data using medical rules, then trains XGBoost.
 Run this BEFORE the hackathon.
 """
+# Severity labels: 0=Low, 1=Medium, 2=High, 3=Emergency (see SEVERITY_MAP below)
 
 import numpy as np
 import pandas as pd
