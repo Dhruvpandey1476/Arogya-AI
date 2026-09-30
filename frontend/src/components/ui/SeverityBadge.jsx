@@ -1,3 +1,4 @@
+// Colour-coded pill for Low / Medium / High / Emergency severity (Emergency pulses).
 const CONFIG = {
   Low:       { className: 'severity-low',       dot: 'bg-emerald-400' },
   Medium:    { className: 'severity-medium',     dot: 'bg-yellow-400' },

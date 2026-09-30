@@ -1,3 +1,4 @@
+// Follow-up chat over WebSocket: streams LLM tokens for the current assessment session.
 import { useEffect, useRef, useState } from 'react'
 import MessageBubble from './MessageBubble'
 import ChatInput from './ChatInput'

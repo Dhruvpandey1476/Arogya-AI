@@ -1,3 +1,5 @@
+// Assessment page: collects symptoms / voice / skin image, submits to /assess
+// and renders the ResultCard.
 import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Sliders, RotateCcw } from 'lucide-react'

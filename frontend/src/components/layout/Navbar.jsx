@@ -1,3 +1,4 @@
+// Top navigation bar with the Arogya AI logo and route links.
 import { Link, useLocation } from 'react-router-dom'
 import { Activity, MessageCircle, Stethoscope } from 'lucide-react'
 

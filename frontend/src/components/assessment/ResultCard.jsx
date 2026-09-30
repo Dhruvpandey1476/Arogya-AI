@@ -1,3 +1,5 @@
+// Assessment result view: diseases, severity, skin-CV risk, first-aid steps,
+// specialist recommendation and RAG sources, with a link into follow-up chat.
 import { useNavigate } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { MessageCircle, Stethoscope, BookOpen, CheckCircle, Eye } from 'lucide-react'
