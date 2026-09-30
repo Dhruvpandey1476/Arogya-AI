@@ -1,3 +1,5 @@
+# Safety guardrails for the LLM layer: blocks unsafe / out-of-scope queries
+# and sanitises model output before it reaches the user.
 import json
 import re
 import logging

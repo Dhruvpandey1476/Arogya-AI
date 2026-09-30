@@ -1,3 +1,5 @@
+# Text preprocessing for free-text symptoms: language detection, translation
+# to English (Hindi supported) and normalisation before symptom matching.
 import re
 import logging
 from typing import Tuple

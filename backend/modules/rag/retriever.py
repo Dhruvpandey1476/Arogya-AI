@@ -1,3 +1,5 @@
+# RAG retriever: queries the persistent ChromaDB 'medical_docs' collection
+# and returns top-k chunks used to ground LLM explanations.
 import chromadb
 from chromadb.config import Settings
 import logging
