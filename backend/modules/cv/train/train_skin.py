@@ -15,6 +15,7 @@ Directory structure expected:
     df/
     vasc/
 """
+# Output: model weights -> config.SKIN_MODEL_PATH, labels -> config.SKIN_LABELS_PATH
 
 import torch
 import torch.nn as nn

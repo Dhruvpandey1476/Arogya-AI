@@ -1,3 +1,5 @@
+# Skin lesion classifier: EfficientNet-B0 fine-tuned on ISIC 2018 Task 3.
+# Returns the predicted condition, confidence and a benign/monitor/concerning risk level.
 import torch
 import torch.nn as nn
 from torchvision import transforms, models
